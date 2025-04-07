@@ -39,4 +39,5 @@ body{
   .sign-up-btn:hover{
     transform: scale(1.1);
     background-color: rgb(80, 245, 130);
+    color: #000;
   }
